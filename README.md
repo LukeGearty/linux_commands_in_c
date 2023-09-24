@@ -1,2 +1,2 @@
 # linux_commands_in_c
-Testing out my C programming skills by creating programs that emulate the Linux commands of cat, ls, and cp
+Testing out my C programming skills by creating programs that emulate the Linux commands of cat, ls, and cp. The purpose of this mini project was to improve my understanding of how C handles files and folders/directories, and to see if I can create programs that mimic some basic but helpful Linux commands. Cat opens and reads a file from teh command line, ls lists the files in a folder/directory, and cp copies the contents of one file to another. 
